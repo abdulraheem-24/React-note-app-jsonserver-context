@@ -1,0 +1,13 @@
+{
+  "notes": [
+    {
+      "id": "1773046190787",
+      "title": " fdasf ",
+      "content": "asd fasf ",
+      "color": "bg-green-200",
+      "isArchived": true,
+      "createdAt": 1773046190787
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
